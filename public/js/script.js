@@ -34,7 +34,7 @@ window.addEventListener('click', function(e){
 
 // Dark mode toggle
 const darkToggle = document.querySelector('#dark-toggle');
-const html = document.querySelector('html');
+const html = document.querySelector('html')
 
 darkToggle.addEventListener('click', function(){
     if (darkToggle.checked) {
