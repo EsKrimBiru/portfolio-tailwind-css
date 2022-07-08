@@ -651,11 +651,6 @@ video {
   margin-right: 1rem;
 }
 
-.my-2 {
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
-}
-
 .mt-1 {
   margin-top: 0.25rem;
 }
@@ -942,11 +937,6 @@ video {
   padding-right: 1.5rem;
 }
 
-.px-2 {
-  padding-left: 0.5rem;
-  padding-right: 0.5rem;
-}
-
 .pt-36 {
   padding-top: 9rem;
 }
@@ -963,12 +953,12 @@ video {
   padding-bottom: 9rem;
 }
 
-.pb-12 {
-  padding-bottom: 3rem;
-}
-
 .pt-24 {
   padding-top: 6rem;
+}
+
+.pb-12 {
+  padding-bottom: 3rem;
 }
 
 .pt-10 {
@@ -1012,10 +1002,6 @@ video {
 .text-sm {
   font-size: 0.875rem;
   line-height: 1.25rem;
-}
-
-.text-\[0\.7rem\] {
-  font-size: 0.7rem;
 }
 
 .text-xs {
@@ -1124,7 +1110,7 @@ video {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-body{
+body {
   font-family: 'Inter', sans-serif;
 }
 
